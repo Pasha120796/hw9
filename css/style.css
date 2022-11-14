@@ -315,8 +315,9 @@ font-weight: 400;
     grid-template-columns: 295px 295px 295px 295px;   
     background: #ffffff;
     margin: 10px;
-} 
-   .grid > * {
+}
+
+.grid > * {
     background-color: #ffffff;
     border: 1px solid #EFEFEF;
     padding: 25px 0;
